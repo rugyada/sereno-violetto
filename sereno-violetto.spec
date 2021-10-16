@@ -3,7 +3,7 @@
 
 Summary:  Sereno-violetto Plasma 5 Aurorae theme for OpenMandriva
 Name:   	sereno-violetto
-Version:    1.0
+Version:    2.0
 Release:    1
 License:    GPL
 Group:  Graphical desktop/KDE
